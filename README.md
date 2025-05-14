@@ -13,11 +13,11 @@
 
 <div align="left">
   <!-- HTML -->
-  <img src="https://github.com/user-attachments/assets/77c5d6b8-fd55-4af6-80d5-e737151a8699" height="25" alt="HTML"  />
+  <img src="https://github.com/user-attachments/assets/3463c6a5-be6c-4539-bc02-0e9d66bf04e6" height="25" alt="HTML"  />
   <img width="8" />
 
   <!-- CSS -->
-  <img src="https://github.com/user-attachments/assets/1ed022b9-9284-41db-93c4-cd377d1149b6" height="25" alt="CSS"  />
+  <img src="https://github.com/user-attachments/assets/f1c3cac2-5721-4aec-9178-edbc725a33e3" height="25" alt="CSS"  />
   <img width="8" />
 
   <!-- JS -->
